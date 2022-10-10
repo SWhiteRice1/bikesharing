@@ -8,8 +8,8 @@
 4. What gender is most likely to use the bike
 
 ## Tableau Dashboards
-[link to NYC Citi Bike](https://public.tableau.com/app/profile/skylar.rice/viz/NYCCitiBike_16652553841430/NYCStory)
-[link to NYC Citi Bike Challenge](https://public.tableau.com/app/profile/skylar.rice/viz/NYCCitiBikeChallenge_16653663213890/NYCCitiBikeChallenge)
+- [link to NYC Citi Bike](https://public.tableau.com/app/profile/skylar.rice/viz/NYCCitiBike_16652553841430/NYCStory)
+- [link to NYC Citi Bike Challenge](https://public.tableau.com/app/profile/skylar.rice/viz/NYCCitiBikeChallenge_16653663213890/NYCCitiBikeChallenge)
 
 ## Analysis
 To answer these questions we utilized Tableau Public to represent the data.
