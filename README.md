@@ -10,3 +10,4 @@
 ## Analysis
 To answer these questions we utilized Tableau Public to represent the data.
 
+<img scr="https://github.com/SWhiteRice1/bikesharing/blob/main/NYC%20Citi%20Bike%20Challenge%20(1).png">
